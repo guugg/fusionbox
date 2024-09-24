@@ -1,0 +1,11 @@
+{
+  "src/turbo.ts": {
+    "file": "assets/turbo-HQCDGFwW.js",
+    "name": "turbo",
+    "src": "src/turbo.ts",
+    "isEntry": true,
+    "css": [
+      "assets/turbo-Dg7ZZXS4.css"
+    ]
+  }
+}

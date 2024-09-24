@@ -1,0 +1,21 @@
+/* vite-project\src\assets\theme\default.css */
+
+/* 默认主题 */
+[data-theme='light'] {
+  --text: hsl(240, 22%, 4%);
+  --background: hsl(228, 33%, 97%);
+  --primary: hsl(236, 48%, 51%);
+  --secondary: hsl(236, 60%, 74%);
+  --accent: hsl(236, 71%, 60%);
+}
+
+/* 暗色主题 */
+[data-theme='dark'] {
+  --text: hsl(240, 20%, 96%);
+  --background: hsl(228, 33%, 3%);
+  --primary: hsl(236, 48%, 49%);
+  --secondary: hsl(236, 59%, 26%);
+  --accent: hsl(236, 71%, 40%);
+}
+
+

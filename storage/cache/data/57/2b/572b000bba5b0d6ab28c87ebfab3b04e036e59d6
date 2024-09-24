@@ -1,0 +1,431 @@
+1726990437s:18456:"<!-- 文章 -->
+
+
+
+
+
+string(23) "缓存命中: site_name"
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+
+<head>
+    <meta charset="UTF-8">
+    <meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
+    <title>Hello World标题</title>
+    <!-- Laravel Blade 样式和脚本 -->
+            <!-- 开发模式：使用 Vite 开发服务器 -->
+        <script type="module" src="http://localhost:3300/src/turbo.ts"></script>
+        <!-- <script type="module" src="http://localhost:3300/src/main.ts"></script> -->
+    
+
+</head>
+
+<body>
+
+
+    <div class="flex justify-center bg-background">
+        <main class="flex min-h-screen w-screen max-w-[60rem] flex-col  px-6 pb-10 pt-7 font-satoshi  sm:px-10 lg:px-10"
+            id="app" data-turbo-frame="main">
+
+            string(23) "缓存命中: site_name"
+<!-- 导航 -->
+
+
+<header class="mb-12 flex w-full flex-wrap pb-3 text-sm sm:flex-nowrap sm:justify-start">
+    <nav class="relative mx-auto flex w-full items-center justify-between sm:flex sm:items-center">
+        <a class='flex-none text-xl font-semibold' href='/' aria-label='Brand'>Hello World标题</a>
+        <div class="flex flex-row items-center justify-center gap-x-5 sm:gap-x-7">
+            <a href="/" data-turbo-frame="main">首页</a>
+            <a href="/start-page.html" data-turbo-frame="main">关于我们</a>
+            <a href="/archives/41.html" data-turbo-frame="main">文章</a>
+
+            <!-- 新的自定义主题切换下拉 -->
+            <!-- 触发按钮 -->
+            <button id="theme-button" class="flex items-center text-sm font-medium">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor"
+                    class="w-5 h-5">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                        d="M12 8v4m0 4h.01M4.93 4.93a10 10 0 0114.14 0m0 14.14a10 10 0 01-14.14 0m7.07-7.07v.01" />
+                </svg>
+            </button>
+
+        </div>
+    </nav>
+</header>
+
+
+
+<!-- 悬浮的下拉菜单，在 body 中 -->
+<div id="theme-menu" class="hidden w-40  fixed z-50">
+    <button class="block w-full px-4 py-2 text-left text-sm " data-theme="light">光明</button>
+    <button class="block w-full px-4 py-2 text-left text-sm" data-theme="dark">暗黑</button>
+    <button class="block w-full px-4 py-2 text-left text-sm" data-theme="pinks">粉色</button>
+</div>
+                <div class="mt-8 gap-x-10 lg:flex lg:items-start">
+        <aside class="sticky top-20 order-2 -me-28 hidden basis-60 lg:flex lg:flex-col">
+            <h2 class="font-semibold">TABLE OF CONTENTS</h2>
+        </aside>
+        <article class="flex-grow break-words" data-pagefind-body="">
+            <div id="blog-hero">
+                <div class="flex flex-wrap items-center gap-x-3 gap-y-2">
+                    <p class="text-xs"> <time datetime="2023-02-22T00:00:00.000Z"> 2023-12-28 </time> / 2 分钟阅读 </p>
+                </div>
+                <h1 class="mt-2 text-3xl font-medium sm:mb-1"> 念念不忘，必有回响 </h1>
+                <h1>兄弟下22</h1>
+                <h1>兄弟下22</h1>
+                <div
+                    class="prose prose-base prose-zinc mt-12 prose-headings:font-medium prose-headings:before:absolute prose-headings:before:-ms-4 prose-th:before:content-none">
+                    <p>N 年 Typecho 沉淀，现在，回应您的等待</p>
+                </div>
+            </div>
+
+            <!-- 显示评论 -->
+            <div id="comments">
+
+                
+                string(23) "缓存命中: site_name"
+<div id="respond-post-41" class="respond">
+       
+
+        <h5 id="response">你的评论</h5>
+        <form method="post" action="http://q.w.com/archives/41.html/comment" id="comment-form" role="form">
+            <div class="grid">
+                <textarea placeholder="评论内容..." rows="4" cols="300" name="text" id="textarea" required></textarea>
+            </div>
+
+                            <p>
+                    登录身份：<a href="http://q.w.com/admin/profile.php">兄弟下22</a>
+                    <span class="mx-2 text-muted">&middot;</span>
+                    <a href="http://q.w.com/action/logout?_=4c0d7f85c159b613ceab6eb393ec979a">退出</a>
+                </p>
+                        <button type="submit">提交评论</button>
+        </form>
+    </div>
+
+                                    <h3>暂无评论</h3>
+                    <ul class="comment-list">
+                                                    string(23) "缓存命中: site_name"
+<li id="li-comment-39" class="comment-body">
+    <div id="comment-39">
+        <div class="comment-author">
+            <img class="avatar" src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=40&amp;d=" alt="AuthorName" width="40"
+                height="40">
+
+            <cite class="fn"><a href="http://q.w.com/archives/41.html">AuthorName</a></cite>
+        </div>
+        <div class="comment-meta">
+            1个月前
+            <a href="http://q.w.com/archives/41.html">
+                <span class="comment-reply">回复</span>
+            </a>
+            <a id="cancel-comment-reply-link" href="http://q.w.com/archives/41.html#respond-post-41" rel="nofollow" style="display:none" onclick="return TypechoComment.cancelReply();">取消回复</a>
+        </div>
+
+        <div>This is a comment</div>
+    </div>
+
+    
+    </li>
+                                                    string(23) "缓存命中: site_name"
+<li id="li-comment-37" class="comment-body">
+    <div id="comment-37">
+        <div class="comment-author">
+            <img class="avatar" src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=40&amp;d=" alt="AuthorName" width="40"
+                height="40">
+
+            <cite class="fn"><a href="http://q.w.com/archives/41.html">AuthorName</a></cite>
+        </div>
+        <div class="comment-meta">
+            1个月前
+            <a href="http://q.w.com/archives/41.html">
+                <span class="comment-reply">回复</span>
+            </a>
+            <a id="cancel-comment-reply-link" href="http://q.w.com/archives/41.html#respond-post-41" rel="nofollow" style="display:none" onclick="return TypechoComment.cancelReply();">取消回复</a>
+        </div>
+
+        <div>This is a comment</div>
+    </div>
+
+    
+    </li>
+                                                    string(23) "缓存命中: site_name"
+<li id="li-comment-36" class="comment-body">
+    <div id="comment-36">
+        <div class="comment-author">
+            <img class="avatar" src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=40&amp;d=" alt="AuthorName" width="40"
+                height="40">
+
+            <cite class="fn"><a href="http://q.w.com/archives/41.html">AuthorName</a></cite>
+        </div>
+        <div class="comment-meta">
+            1个月前
+            <a href="http://q.w.com/archives/41.html">
+                <span class="comment-reply">回复</span>
+            </a>
+            <a id="cancel-comment-reply-link" href="http://q.w.com/archives/41.html#respond-post-41" rel="nofollow" style="display:none" onclick="return TypechoComment.cancelReply();">取消回复</a>
+        </div>
+
+        <div>This is a comment</div>
+    </div>
+
+    
+    </li>
+                                                    string(23) "缓存命中: site_name"
+<li id="li-comment-35" class="comment-body">
+    <div id="comment-35">
+        <div class="comment-author">
+            <img class="avatar" src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=40&amp;d=" alt="AuthorName" width="40"
+                height="40">
+
+            <cite class="fn"><a href="http://q.w.com/archives/41.html">AuthorName</a></cite>
+        </div>
+        <div class="comment-meta">
+            1个月前
+            <a href="http://q.w.com/archives/41.html">
+                <span class="comment-reply">回复</span>
+            </a>
+            <a id="cancel-comment-reply-link" href="http://q.w.com/archives/41.html#respond-post-41" rel="nofollow" style="display:none" onclick="return TypechoComment.cancelReply();">取消回复</a>
+        </div>
+
+        <div>This is a comment</div>
+    </div>
+
+    
+    </li>
+                                                    string(23) "缓存命中: site_name"
+<li id="li-comment-34" class="comment-body">
+    <div id="comment-34">
+        <div class="comment-author">
+            <img class="avatar" src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=40&amp;d=" alt="AuthorName" width="40"
+                height="40">
+
+            <cite class="fn"><a href="http://q.w.com/archives/41.html">AuthorName</a></cite>
+        </div>
+        <div class="comment-meta">
+            1个月前
+            <a href="http://q.w.com/archives/41.html">
+                <span class="comment-reply">回复</span>
+            </a>
+            <a id="cancel-comment-reply-link" href="http://q.w.com/archives/41.html#respond-post-41" rel="nofollow" style="display:none" onclick="return TypechoComment.cancelReply();">取消回复</a>
+        </div>
+
+        <div>This is a comment</div>
+    </div>
+
+    
+    </li>
+                                                    string(23) "缓存命中: site_name"
+<li id="li-comment-31" class="comment-body">
+    <div id="comment-31">
+        <div class="comment-author">
+            <img class="avatar" src="https://www.gravatar.com/avatar/5c1e6d6e64e12aca17657581a48005d1?s=40&amp;d=" alt="Author Name" width="40"
+                height="40">
+
+            <cite class="fn"><a href="http://q.w.com/archives/41.html">Author Name</a></cite>
+        </div>
+        <div class="comment-meta">
+            1个月前
+            <a href="http://q.w.com/archives/41.html">
+                <span class="comment-reply">回复</span>
+            </a>
+            <a id="cancel-comment-reply-link" href="http://q.w.com/archives/41.html#respond-post-41" rel="nofollow" style="display:none" onclick="return TypechoComment.cancelReply();">取消回复</a>
+        </div>
+
+        <div>This is a comment.</div>
+    </div>
+
+    
+    </li>
+                                                    string(23) "缓存命中: site_name"
+<li id="li-comment-30" class="comment-body">
+    <div id="comment-30">
+        <div class="comment-author">
+            <img class="avatar" src="https://www.gravatar.com/avatar/5c1e6d6e64e12aca17657581a48005d1?s=40&amp;d=" alt="Author Name" width="40"
+                height="40">
+
+            <cite class="fn"><a href="http://q.w.com/archives/41.html">Author Name</a></cite>
+        </div>
+        <div class="comment-meta">
+            1个月前
+            <a href="http://q.w.com/archives/41.html">
+                <span class="comment-reply">回复</span>
+            </a>
+            <a id="cancel-comment-reply-link" href="http://q.w.com/archives/41.html#respond-post-41" rel="nofollow" style="display:none" onclick="return TypechoComment.cancelReply();">取消回复</a>
+        </div>
+
+        <div>Thi从飒飒s is a comment.</div>
+    </div>
+
+    
+    </li>
+                                                    string(23) "缓存命中: site_name"
+<li id="li-comment-29" class="comment-body">
+    <div id="comment-29">
+        <div class="comment-author">
+            <img class="avatar" src="https://www.gravatar.com/avatar/5c1e6d6e64e12aca17657581a48005d1?s=40&amp;d=" alt="Author Name" width="40"
+                height="40">
+
+            <cite class="fn"><a href="http://q.w.com/archives/41.html">Author Name</a></cite>
+        </div>
+        <div class="comment-meta">
+            1个月前
+            <a href="http://q.w.com/archives/41.html">
+                <span class="comment-reply">回复</span>
+            </a>
+            <a id="cancel-comment-reply-link" href="http://q.w.com/archives/41.html#respond-post-41" rel="nofollow" style="display:none" onclick="return TypechoComment.cancelReply();">取消回复</a>
+        </div>
+
+        <div>Thi从飒飒s is a comment.</div>
+    </div>
+
+    
+    </li>
+                                                    string(23) "缓存命中: site_name"
+<li id="li-comment-28" class="comment-body">
+    <div id="comment-28">
+        <div class="comment-author">
+            <img class="avatar" src="https://www.gravatar.com/avatar/5c1e6d6e64e12aca17657581a48005d1?s=40&amp;d=" alt="Author Name" width="40"
+                height="40">
+
+            <cite class="fn"><a href="http://q.w.com/archives/41.html">Author Name</a></cite>
+        </div>
+        <div class="comment-meta">
+            1个月前
+            <a href="http://q.w.com/archives/41.html">
+                <span class="comment-reply">回复</span>
+            </a>
+            <a id="cancel-comment-reply-link" href="http://q.w.com/archives/41.html#respond-post-41" rel="nofollow" style="display:none" onclick="return TypechoComment.cancelReply();">取消回复</a>
+        </div>
+
+        <div>Thi从飒飒s is a comment.</div>
+    </div>
+
+    
+    </li>
+                                                    string(23) "缓存命中: site_name"
+<li id="li-comment-27" class="comment-body">
+    <div id="comment-27">
+        <div class="comment-author">
+            <img class="avatar" src="https://www.gravatar.com/avatar/5c1e6d6e64e12aca17657581a48005d1?s=40&amp;d=" alt="Author Name" width="40"
+                height="40">
+
+            <cite class="fn"><a href="http://q.w.com/archives/41.html">Author Name</a></cite>
+        </div>
+        <div class="comment-meta">
+            1个月前
+            <a href="http://q.w.com/archives/41.html">
+                <span class="comment-reply">回复</span>
+            </a>
+            <a id="cancel-comment-reply-link" href="http://q.w.com/archives/41.html#respond-post-41" rel="nofollow" style="display:none" onclick="return TypechoComment.cancelReply();">取消回复</a>
+        </div>
+
+        <div>Thi从飒飒s is a comment.</div>
+    </div>
+
+    
+    </li>
+                                                    string(23) "缓存命中: site_name"
+<li id="li-comment-26" class="comment-body">
+    <div id="comment-26">
+        <div class="comment-author">
+            <img class="avatar" src="https://www.gravatar.com/avatar/5c1e6d6e64e12aca17657581a48005d1?s=40&amp;d=" alt="Author Name" width="40"
+                height="40">
+
+            <cite class="fn"><a href="http://q.w.com/archives/41.html">Author Name</a></cite>
+        </div>
+        <div class="comment-meta">
+            1个月前
+            <a href="http://q.w.com/archives/41.html">
+                <span class="comment-reply">回复</span>
+            </a>
+            <a id="cancel-comment-reply-link" href="http://q.w.com/archives/41.html#respond-post-41" rel="nofollow" style="display:none" onclick="return TypechoComment.cancelReply();">取消回复</a>
+        </div>
+
+        <div>Thi从飒飒s is a comment.</div>
+    </div>
+
+    
+    </li>
+                                                    string(23) "缓存命中: site_name"
+<li id="li-comment-25" class="comment-body">
+    <div id="comment-25">
+        <div class="comment-author">
+            <img class="avatar" src="https://www.gravatar.com/avatar/5c1e6d6e64e12aca17657581a48005d1?s=40&amp;d=" alt="Author Name" width="40"
+                height="40">
+
+            <cite class="fn"><a href="http://q.w.com/archives/41.html">Author Name</a></cite>
+        </div>
+        <div class="comment-meta">
+            1个月前
+            <a href="http://q.w.com/archives/41.html">
+                <span class="comment-reply">回复</span>
+            </a>
+            <a id="cancel-comment-reply-link" href="http://q.w.com/archives/41.html#respond-post-41" rel="nofollow" style="display:none" onclick="return TypechoComment.cancelReply();">取消回复</a>
+        </div>
+
+        <div>Thi飒飒s is a comment.</div>
+    </div>
+
+    
+    </li>
+                                                    string(23) "缓存命中: site_name"
+<li id="li-comment-24" class="comment-body">
+    <div id="comment-24">
+        <div class="comment-author">
+            <img class="avatar" src="https://www.gravatar.com/avatar/5c1e6d6e64e12aca17657581a48005d1?s=40&amp;d=" alt="Author Name" width="40"
+                height="40">
+
+            <cite class="fn"><a href="http://q.w.com/archives/41.html">Author Name</a></cite>
+        </div>
+        <div class="comment-meta">
+            1个月前
+            <a href="http://q.w.com/archives/41.html">
+                <span class="comment-reply">回复</span>
+            </a>
+            <a id="cancel-comment-reply-link" href="http://q.w.com/archives/41.html#respond-post-41" rel="nofollow" style="display:none" onclick="return TypechoComment.cancelReply();">取消回复</a>
+        </div>
+
+        <div>This is a comment.</div>
+    </div>
+
+    
+    </li>
+                                            </ul>
+                            </div>
+
+
+        </article>
+
+
+    </div>
+            string(23) "缓存命中: site_name"
+<footer class='mx-auto mt-24 w-full'>
+    <div class='border-t border-border pt-5'>
+        <div
+            class='flex flex-col items-center gap-y-3 sm:flex sm:flex-row sm:items-center sm:justify-between sm:gap-y-0'>
+            <div class='flex gap-x-4 text-sm'>
+                <p class=''>© 2024 - 版权所有</p>
+            </div>
+
+            <div class='flex items-center justify-between'>
+                <!-- Social Brands -->
+                <div class='flex items-center gap-x-4'>
+                    <!-- Linkedin -->
+                    <a class='inline-block text-muted-foreground transition-all hover:text-muted-foreground/75'
+                        href='https://www.linkedin.com/in/example/'>
+                        入门主题
+                    </a>
+                </div>
+                <!-- End Social Brands -->
+            </div>
+        </div>
+    </div>
+</footer>
+        </main>
+    </div>
+
+
+</body>
+
+</html>
+";

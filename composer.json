@@ -1,0 +1,21 @@
+{
+    "name": "fan/fusionbox",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bllk",
+            "email": "q.kent@foxmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/view": "^11.9",
+        "illuminate/events": "^11.23",
+        "illuminate/filesystem": "^11.23",
+        "illuminate/config": "^11.23",
+        "illuminate/cache": "^11.23"
+    }
+}
